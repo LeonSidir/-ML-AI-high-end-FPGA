@@ -1,4 +1,4 @@
-# -ML-AI-high-end-FPGA
+# Implementation of ML-AI in high-end FPGA.
 
 Source code files:
 
