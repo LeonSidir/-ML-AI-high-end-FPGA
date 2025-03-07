@@ -1,4 +1,4 @@
-# Implementation of ML-AI in high-end FPGA.
+# ML-AI Implementation in high-end FPGA.
 
 **Description**
 
