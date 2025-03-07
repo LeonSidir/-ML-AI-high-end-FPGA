@@ -1,5 +1,9 @@
 # Implementation of ML-AI in high-end FPGA.
 
+**Description**
+
+This thesis focuses on optimizing the **HPL-AI benchmark**, which integrates methods from High-Performance Computing (HPC), Machine Learning, and AI. The process begins with a time analysis of the benchmark code running on an Intel Core i7-7700HQ (2.80GHz) using the **Intel VTune Profiler** to identify performance bottlenecks. Based on the analysis, we optimize the most time-consuming functions to improve hardware efficiency, leveraging High-Level Synthesis (HLS) tools such as **Vivado HLS** and **Vitis HLS**. Finally, we implement the optimized code on an **Alveo U200 FPGA**, compare its performance against the CPU implementation, and evaluate the achieved acceleration.
+
 Source code files:
 
 1) **blas.cpp:** Contains basic linear algebra functions for operations between matrices.
